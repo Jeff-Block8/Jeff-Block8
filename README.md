@@ -8,27 +8,28 @@
 - 🎯 Atualmente focado em aprender desenvolvimento Web e automação.
 - 💻 Desenvolvendo projetos práticos para fixar conceitos de lógica e arquitetura.
 - 🌱 Aprendendo a criar assistentes virtuais, integrações com APIs e automações inteligentes.
-- ⚡ "O código pode até morder no começo, mas a persistência sempre vence."
+- ⚡ "A persistência sempre vence."
 
 ---
 
 ## 🛠️ Tecnologias & Linguagens em Aprendizado
 
-Aqui estão as ferramentas e linguagens que estou dominando no momento:
+Aqui estão as ferramentas e linguagens que estou dominando no momento, com seus logotipos originais e sem bordas:
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Desenvolvimento Web** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) |
-| **Linguagem Principal & IA** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| **Ferramentas & Ambiente** | ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="75" height="75" alt="HTML5" title="HTML5" style="margin-right: 20px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="75" height="75" alt="CSS3" title="CSS3" style="margin-right: 20px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="75" height="75" alt="JavaScript" title="JavaScript" style="margin-right: 20px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="75" height="75" alt="Python" title="Python" />
+</p>
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Status do GitHub" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens Mais Usadas" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeff-Block8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Status do GitHub" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeff-Block8&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens Mais Usadas" height="180em" />
 </p>
 
 ---
@@ -37,5 +38,11 @@ Aqui estão as ferramentas e linguagens que estou dominando no momento:
 
 Se quiser trocar uma ideia sobre projetos, códigos ou parcerias, sinta-se à vontade!
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:seu-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+</p>
